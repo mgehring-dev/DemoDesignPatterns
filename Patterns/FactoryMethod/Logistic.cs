@@ -1,4 +1,4 @@
-namespace DemoFactory
+namespace DemoDesignPatterns.Patterns.FactoryMethod
 {
   public abstract class Logistic
   {
